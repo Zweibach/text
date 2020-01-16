@@ -3,7 +3,7 @@ or
 ## Myths and facts about the Public Tag Repository
 
 ### What is the PTR?  
-Short for **P**ublic **T**ag **R**repository, a now community managed repository of tags. Locally it acts as a tag service, viewable under `services -> review services -> remote -> tag repositories -> public tag repository`. Here you can view its status, your account (default account when using Hydru's `help -> add the public tag repository` function is a public, shared, account. Currently only janitors and the administrator have personal accounts.), tag status, and how synced you are. Being behind on the sync by a certain amount makes you unable to push tags and petitions until you are caught up again. At the time of writing 39 million files have tags on it. The PTR only store the sha256 hash and tag mappings of a file, not the files themselves or any non-tag meta data. In other words: If you don't see it in the tag list it's not stored.
+Short for **P**ublic **T**ag **R**epository, a now community managed repository of tags. Locally it acts as a tag service, viewable under `services -> review services -> remote -> tag repositories -> public tag repository`. Here you can view its status, your account (default account when using Hydru's `help -> add the public tag repository` function is a public, shared, account. Currently only janitors and the administrator have personal accounts.), tag status, and how synced you are. Being behind on the sync by a certain amount makes you unable to push tags and petitions until you are caught up again. At the time of writing 39 million files have tags on it. The PTR only store the sha256 hash and tag mappings of a file, not the files themselves or any non-tag meta data. In other words: If you don't see it in the tag list it's not stored.
 
 Everything in this document also applies to [self-hosted servers](https://hydrusnetwork.github.io/hydrus/help/server.html), except for tag guidelines.
 
@@ -44,6 +44,7 @@ When making parents, make sure it's an always factually correct relationship. `c
 `photoset:` Used for photosets. Primarily seen for content from idols, cosplayers, and gravure idols.  
 `studio:` Is used for the entity that facilitated the production of the file or what's in it. Eon Productions for the *James Bond* movies.  
 `species:` Species of the depicted characters/people/animals. Somewhat controversial for being needlessly detailed, some janitors not liking the namespace at all. Primarily used for furry content.  
+`title:` The title of the file. One of the tags Hydrus uses for various purposes such as sorting and collecting. Somewhat tainted by rampant Reddit parsers.  
 `medium:` Used for tags about the image and how it's made. Photography, water painting, napkin sketch as a few examples. White background, simple background, checkered background as a few others.  
 `meta:` This namespace is used for information that isn't visible in the image itself or where you might need to go to the source. Some examples include: third-party edit, paid reward (patreon/enty/gumroad/fantia/fanbox), translated, commentary, and such.
 
