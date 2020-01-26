@@ -9,6 +9,7 @@ Most of the things in this document also applies to [self-hosted servers](https:
 
 ### Connecting to the PTR
 The easiest method is to use the built in function, found under `help -> add the public tag repository`. For adding it manually, if you so desire, read the Hydrus help document on [access keys](https://hydrusnetwork.github.io/hydrus/help/access_keys.html).  
+If you are starting out completely fresh you can also download the update files or a fully synced client [here](https://cuddlebear92.github.io/Quicksync/). Though possibly a bit out of date it will none the less save time.  
 Once you are connected Hydrus will proceed to download and then process the update files. The progress of this can be seen under `services -> review services -> remote -> tag repositories -> public tag repository`. Here you can view its status, your account (the default account is a shared public account. Currently only janitors and the administrator have personal accounts), tag status, and how synced you are. Being behind on the sync by a certain amount makes you unable to push tags and petitions until you are caught up again.
 
 ### How does it work?
@@ -29,7 +30,7 @@ When making petitions it is important to remember that janitors are only human. 
 `A. That depends largely on if there's a scrapable database of tags for whatever you're asking about. Anything that comes from a booru or site that supports tags is fairly likely to have something on the PTR. Original content on some obscure chan-style imageboard is less so.`
 
 `Q. Help! My files don't have any tags! What do!?`  
-`A. As stated above, some things are just very likely to not have any tags. It is also possible that the files have been altered by whichever service you downloaded from. Imgur, Reddit, Discord, and many other sites and services recompress images to save space which might give it a different hash even if it looks indistinguishable from the original file. Use one of the IQDB lookup programs linked in` [Cuddle's wiki](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/0-Hydrus-Apps-and-Scripts)`.`
+`A. As stated above, some things are just very likely to not have any tags. It is also possible that the files have been altered by whichever service you downloaded from. Imgur, Reddit, Discord, and many other sites and services recompress images to save space which might give it a different hash even if it looks indistinguishable from the original file. Use one of the IQDB lookup programs linked in` [Cuddle's wiki](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/0-Hydrus-Apps-and-Scripts).
 
 ### Janitors
 Janitors are the people that review petitions. You can meet us at the community [Discord](https://discord.gg/3H8UTpb) to ask questions or see us bitch about some of the silly stuff boorus and users cause to end up in the PTR.
@@ -39,7 +40,7 @@ Janitors are the people that review petitions. You can meet us at the community 
 These are a mix of standard praxis used by various boorus and changes made by Hydrus Developer and PTR users, ratified by the janitors that actually have to manage all of this. The "full" document is viewable at [Cuddle's git repo](https://raw.githubusercontent.com/CuddleBear92/Hydrus-Presets-and-Scripts/master/tag%20guidelines). See Hydrus Developer's [thoughts on a public tagging schema](https://hydrusnetwork.github.io/hydrus/help/tagging_schema.html).
 
 If you are looking to help out by tagging low tag-count files, remember to keep the tags objective, start simple by for example adding the characters/persons and big obvious things in the image or what else. Tagging every little thing and detail is a sure path to burnout.  
-If you are looking to petition removal of tags then it is preferable to sibling common misspellings, underscores, and defunct tags rather than deleting them outright. The exception is for ambiguous tags where it is better to delete and replace with a less ambiguous tag.  
+If you are looking to petition removal of tags then it is preferable to sibling common misspellings, underscores, and defunct tags rather than deleting them outright. The exception is for ambiguous tags where it is better to delete and replace with a less ambiguous tag. When deleting tags that don't belong in the image it can be helpful if you include a short description as to why.  
 It's also helpful if you sanitise downloaded tags from sites with tagged galleries before pushing them to the PTR. For example Pixiv, where you can have a gallery of multiple images, each containing one character, and all of the characters being tagged. Consequently all images in that gallery will have all of the character tags despite no image having more than one character.
 
 #### Siblings and parents
