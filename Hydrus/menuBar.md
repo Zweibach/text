@@ -1,0 +1,205 @@
+### file
+- import files
+- import and export folders
+  - pause
+    - import folder
+    - export folders
+  - manage import folders
+  - manage export folders
+- open
+  - installation directory
+  - database directory
+  - quick export directory
+- options
+- shortcuts
+- restart
+- exit and force shutdown maintenance
+- exit
+
+### undo
+- closed pages
+  - clear all
+  - `last three closed pages`
+
+### pages
+- \# pages open
+- total session weight: \#
+- refresh
+- management and preview panels
+  - show/hide
+  - save current page's sash positions on client exit
+  - save current page's sash positions now
+  - restore all page's sash positions to saved value
+- sessions
+  - clear and load
+    - exit session
+    - last session
+  - append
+    - exit session
+    - last session
+  - append session backup
+    - exit session
+      - `last ten sessions`
+    - last session
+      - `last ten sessions`
+  - save
+    - as new session
+- pick a new page
+- new search page
+  - my files
+  - trash
+  - read-only file repository
+- new petition page
+  - public tag repository
+- new download page
+  - url download
+  - watcher
+  - gallery
+  - simple downloader
+- new special page
+  - page of pages
+  - duplicate processing
+- special commands
+  - clear all multiwatcher highlights
+
+### database
+- set a password
+- migrate database
+- maintenance
+  - files
+    - manage scheduled jobs
+    - work file jobs during idle time
+    - work file jobs during normal time
+  - vacuum
+  - analyze
+  - clear orphan files
+  - clear orphan file records
+  - clear orphan tables
+- check
+  - database integrity
+- regenerate
+  - autocomplete cacha
+  - repopulate and correct tag text search cache
+  - similar files search tree
+- file viewing statistics
+  - clear all file viewing statistics
+  - cull file viewing statistics based on current min/max values
+
+### pending ()
+- remote repository
+
+### network
+- pause
+  - subscriptions
+  - all new network traffic
+  - paged file import queues
+  - gallery searches
+  - watcher checkers
+- data
+  - review bandwidth usage `and edit bandwidth rules, globally and per website`
+  - review current network jobs
+  - review session cookies
+  - manage http headers
+  - manage upnp
+- downloaders
+  - manage subscriptions
+  - nudge subscriptions awake
+  - watch clipboard for urls
+    - watcher urls
+    - other recognised urls
+  - [import downloaders](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+  - manage default tag import options
+  - manage downloader and url display
+  - manage logins
+  - DEBUG
+    - do tumblr GDPR click-through
+- downloader definitions
+  - manage gallery url generators
+  - manage url classes
+  - manage parsers
+  - manage login scripts
+  - manage url class links
+  - [export downloaders](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+  - SEMI-LEGACY: manage file lookup scripts
+
+### services
+- pause
+  - repositories synchronisation
+- review services
+- manage services
+- import repository update files
+- tag migration
+- manage tag display
+- manage tag siblings
+- manage tag parents
+
+### help
+- help and getting start guide
+- links
+  - site
+  - 8kun board
+  - Endchan board bunker
+  - twitter
+  - tumblr
+  - discord
+  - patreon
+- changelog
+- add the public tag repository
+- how boned am I!?
+- darkmode
+- advanced mode
+- debug
+  - debug modes
+    - force idle mode
+    - no page limit mode
+    - thumbnail debug mode
+    - simulate wakeup from sleep
+  - profile modes
+    - db profile mode
+    - menu profile mode
+    - pubsub profile mode
+    - ui timer profile mode
+  - report modes
+    - callto report mode
+    - daemon report mode
+    - db report mode
+    - file import report mode
+    - file report mode
+    - gui report mode
+    - hover window report mode
+    - network report mode
+    - pubsub report mode
+    - similar files metadata generation report mode
+    - shortcut report mode
+    - subprocess report mode
+    - subscription report mode
+  - gui actions
+    - make some popups
+    - make a long text popup
+    - make a popup in five seconds
+    - make a modal popup in five seconds
+    - make a new page in five seconds
+    - make a parentless text ctrl dialog
+    - force a main gui layout now
+    - save 'last session' gui session
+    - run the ui test
+  - data actions
+    - run fast memory maintenance
+    - run slow memory maintenance
+    - review threads
+    - show scheduled jobs
+    - subscription manager snapshot
+    - flush log
+    - print garbage
+    - take garbage snapshot
+    - show garbage snapshot changes
+    - enable truncated image loading
+    - clear image rendering cache
+    - clear thumbnail cache
+    - clear db service info cache
+    - load whole db in disk cache
+  - network actions
+    - fetch a url
+  - run and initialise server for testing
+- about Qt
+- about
