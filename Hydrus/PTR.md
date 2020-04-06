@@ -33,7 +33,7 @@ When making petitions it is important to remember that janitors are only human. 
 `A. As stated above, some things are just very likely to not have any tags. It is also possible that the files have been altered by whichever service you downloaded from. Imgur, Reddit, Discord, and many other sites and services recompress images to save space which might give it a different hash even if it looks indistinguishable from the original file. Use one of the IQDB lookup programs linked in` [Cuddle's wiki](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/0-Hydrus-Apps-and-Scripts).
 
 `Q. Why is my database so big!? This can't be right.`  
-`A. It is working as intended. The size is because you are literally downloading and processing the entire tag database and history of the PTR. It is done this way to ensure redundancy and privacy. Redundancy because anybody with an up-to-date PTR sync can just start their own. Privacy because nobody can tell what files you have since you are downloading the tags for all of them.`
+`A. It is working as intended. The size is because you are literally downloading and processing the entire tag database and history of the PTR. It is done this way to ensure redundancy and privacy. Redundancy because anybody with an up-to-date PTR sync can just start their own. Privacy because nobody can tell what files you have since you are downloading the tags for everything the PTR has.`
 
 ### Janitors
 Janitors are the people that review petitions. You can meet us at the community [Discord](https://discord.gg/3H8UTpb) to ask questions or see us bitch about some of the silly stuff boorus and users cause to end up in the PTR.
