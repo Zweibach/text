@@ -49,22 +49,22 @@
   - my files
   - trash
   - read-only file repository
-- new petition page
+- new petition page `only available if you have a janitor account on a remote repository`
   - public tag repository
-- new download page
+- [new download page](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html)
   - url download
   - watcher
   - gallery
   - simple downloader
 - new special page
   - page of pages
-  - duplicate processing
+  - [duplicate processing](https://hydrusnetwork.github.io/hydrus/help/duplicates.html)
 - special commands
   - clear all multiwatcher highlights
 
 ### database
 - set a password
-- migrate database
+- [migrate database](https://hydrusnetwork.github.io/hydrus/help/database_migration.html)
 - maintenance
   - files
     - manage scheduled jobs
@@ -85,7 +85,7 @@
   - clear all file viewing statistics
   - cull file viewing statistics based on current min/max values
 
-### pending ()
+### pending () `only visible while petitions are pending`
 - remote repository
 
 ### network
@@ -102,7 +102,7 @@
   - manage http headers
   - manage upnp
 - downloaders
-  - manage subscriptions
+  - [manage subscriptions](https://hydrusnetwork.github.io/hydrus/help/getting_started_subscriptions.html)
   - nudge subscriptions awake
   - watch clipboard for urls
     - watcher urls
@@ -119,7 +119,7 @@
   - manage parsers
   - manage login scripts
   - manage url class links
-  - [export downloaders](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+  - [export downloaders](https://hydrusnetwork.github.io/hydrus/help/downloader_sharing.html)
   - SEMI-LEGACY: manage file lookup scripts
 
 ### services
@@ -130,24 +130,24 @@
 - import repository update files
 - tag migration
 - manage tag display
-- manage tag siblings
-- manage tag parents
+- [manage tag siblings](https://hydrusnetwork.github.io/hydrus/help/advanced_siblings.html)
+- [manage tag parents](https://hydrusnetwork.github.io/hydrus/help/advanced_parents.html)
 
 ### help
-- help and getting start guide
+- [help and getting start guide](https://hydrusnetwork.github.io/hydrus/help/index.html)
 - links
-  - site
-  - 8kun board
-  - Endchan board bunker
-  - twitter
-  - tumblr
-  - discord
-  - patreon
-- changelog
-- add the public tag repository
-- how boned am I!?
+  - [site](https://hydrusnetwork.github.io/hydrus/)
+  - [8kun board](https://8kun.top/hydrus/index.html)
+  - [Endchan board bunker](https://endchan.net/hydrus/)
+  - [twitter](https://twitter.com/hydrusnetwork)
+  - [tumblr](http://hydrus.tumblr.com/)
+  - [discord](https://discord.gg/vy8CUB4)
+  - [patreon](https://www.patreon.com/hydrus_dev)
+- [changelog](https://hydrusnetwork.github.io/hydrus/help/changelog.html)
+- [add the public tag repository](https://github.com/Zweibach/text/blob/master/Hydrus/PTR.md) `adds the PTR to your tag services, click the link for more information`
+- how boned am I!? `humorously presented statistics`
 - darkmode
-- advanced mode
+- advanced mode `need to be enabled to see a lot of the here listed options`
 - debug
   - debug modes
     - force idle mode
