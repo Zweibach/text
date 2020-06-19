@@ -19,3 +19,6 @@ For how to do it there's a guide here: [How to fetch tags in bulk with md5 hash]
 The recommended method for this is to use IQDB taggers from either [rachmadaniHaryono](https://github.com/rachmadaniHaryono/iqdb_tagger) or [nostrenz](https://github.com/nostrenz/hatate-iqdb-tagger). First one is a command line application while the latter has a graphical interface. Usage of both require you to be able to read their .README and google error messages.
 
 There's a function found in `manage tags` for **a single file** that lets you lookup that image on IQDB. You can only do one image at a time and there's no automatation. Lookup scripts are also labeled as SEMI-LEGACY in Hydrus so don't expect much support on them.
+
+## Using a neural network to tag
+Precisely what it sounds like provided you know what it is. Found [here](https://gitgud.io/koto/hydrus-dd/). Read the guide, follow it, google issues.
