@@ -2,6 +2,16 @@
 or
 ## Myths and facts about the Public Tag Repository
 
+- [PTR for Dummies](#ptr-for-dummies)
+  - [Myths and facts about the Public Tag Repository](#myths-and-facts-about-the-public-tag-repository)
+    - [What is the PTR?](#what-is-the-ptr)
+    - [Connecting to the PTR](#connecting-to-the-ptr)
+    - [How does it work?](#how-does-it-work)
+    - [Janitors](#janitors)
+    - [Tag Guidelines](#tag-guidelines)
+      - [Siblings and parents](#siblings-and-parents)
+      - [Namespaces](#namespaces)
+
 ### What is the PTR?  
 Short for **P**ublic **T**ag **R**epository, a now community managed repository of tags. Locally it acts as a tag service, just like `my tags`. At the time of writing 39 million files have tags on it. The PTR only store the sha256 hash and tag mappings of a file, not the files themselves or any non-tag meta data. In other words: If you don not see it in the tag list then it is not stored.
 
