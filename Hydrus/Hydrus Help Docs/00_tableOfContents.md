@@ -1,7 +1,7 @@
 # Hydrus Help Documents
 These help pages are intentionally written to be more basic and less comprehensive than the official help pages. If you want something that goes beyond the basics of scratching the surface go read them.
 
-## [Installation](/text/Hydrus/Hydrus%20Help%20Docs/01_installation.md)
+## [Installation](01_installation.md)
 Covers downloading, installing, updating, and backing up Hydrus.
 
 ## Import and export
