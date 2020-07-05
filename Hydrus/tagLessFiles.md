@@ -24,7 +24,7 @@ For how to do it there's a guide here: [How to fetch tags in bulk with md5 hash]
 
 ## Using IQDB and Saucenao
 Deals primarily with anime and manga.  
-The recommended method for this is to use IQDB taggers from either [rachmadaniHaryono](https://github.com/rachmadaniHaryono/iqdb_tagger) or [nostrenz](https://github.com/nostrenz/hatate-iqdb-tagger). First one is a command line application while the latter has a graphical interface. Usage of both require you to be able to read their .README and google error messages.
+The recommended method for this is to use IQDB taggers from either [rachmadaniHaryono](https://github.com/rachmadaniHaryono/iqdb_tagger) or [nostrenz](https://github.com/nostrenz/hatate-iqdb-tagger). First one is a command line application and requires you to have Python while the latter has a graphical interface and does not require Python. Usage of both require you to be able to read their README and google error messages.
 
 There's a function found in `manage tags` for **a single file** that lets you lookup that image on IQDB. You can only do one image at a time and there's no automatation. Lookup scripts are also labeled as SEMI-LEGACY in Hydrus so don't expect much support on them.
 
