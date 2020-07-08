@@ -90,11 +90,13 @@
 
 ### network
 - pause
-  - subscriptions
   - all new network traffic
+  - subscriptions
+  - nudge subscriptions awake
   - paged file import queues
   - gallery searches
   - watcher checkers
+- [manage subscriptions](https://hydrusnetwork.github.io/hydrus/help/getting_started_subscriptions.html)
 - data
   - review bandwidth usage `and edit bandwidth rules, globally and per website`
   - review current network jobs
@@ -102,25 +104,24 @@
   - manage http headers
   - manage upnp
 - downloaders
-  - [manage subscriptions](https://hydrusnetwork.github.io/hydrus/help/getting_started_subscriptions.html)
-  - nudge subscriptions awake
+  - [import downloaders](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
+   - [export downloaders](https://hydrusnetwork.github.io/hydrus/help/downloader_sharing.html)
+  - manage default tag import options
+  - manage downloader and url display
   - watch clipboard for urls
     - watcher urls
     - other recognised urls
-  - [import downloaders](https://hydrusnetwork.github.io/hydrus/help/adding_new_downloaders.html)
-  - manage default tag import options
-  - manage downloader and url display
-  - manage logins
-  - DEBUG
-    - do tumblr GDPR click-through
-- downloader definitions
+- downloader components
+  - manage url class links
   - manage gallery url generators
   - manage url classes
   - manage parsers
-  - manage login scripts
-  - manage url class links
-  - [export downloaders](https://hydrusnetwork.github.io/hydrus/help/downloader_sharing.html)
   - SEMI-LEGACY: manage file lookup scripts
+- logins
+  - manage logins
+  - manage login scripts
+  - DEBUG
+    - do tumblr GDPR click-through
 
 ### services
 - pause
