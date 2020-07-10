@@ -16,7 +16,7 @@ If you want to share your files then export is the way to go. Basic way is to ma
 
 You can also copy the files by right-clicking and going down `share -> copy -> files` and then pasting the files where you want them.
 
-You can also export files with tags, either in filename or as a side-car .txt file by right-clicking and going down `share -> export -> files`. Have a look at the settings and then press `export`.
+You can also export files with tags, either in filename or as a side-car .txt file by right-clicking and going down `share -> export -> files`. Have a look at the settings and then press `export`. You can create folders to export files into by using backslashes on Windows (`\`) and slashes on Linux (`/`) in the filename. This can be combined with the patterns listed in the pattern shortcut button dropdown. As example `[series]\{filehash}` will export files into folders named after the `series:` namespaced tags on the files, all files tagged with one series goes into one folder, files tagged with another series goes into another folder.
 
 ## Automation
 Under `file -> import and export folders` you'll find options for setting up automated import and export folders that can run on a schedule. Both have a fair deal of options and rules you can set so look them over carefully.
