@@ -1,5 +1,5 @@
 # Installing Hydrus
-
+[Back to table of contents](00_tableOfContents.md)
 ## Downloading
 First step is to download Hydrus. Depending on the source this might double as installing it too.
 
@@ -41,3 +41,6 @@ Recommended and used by dev and me. Somewhat basic but does the job well enough.
 [Borg Backup](https://www.borgbackup.org/)  
 FreeBSD, Linux, MacOS.  
 More advanced and featurefull backup tool.
+
+[Back to table of contents](00_tableOfContents.md)  
+[Onwards to importing files](02_importAndExport.md)
