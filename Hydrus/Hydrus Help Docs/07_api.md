@@ -1,7 +1,6 @@
-# API
 [Back to table of contents](00_tableOfContents.md)
-
-The API enables external programs to access Hydrus.
+# API
+The API enables external programs to access Hydrus. Seeing as this is a basic guide this page will not go into how the API works or what you can do with it.
 
 ## Enabling API
 To use the API you must first turn it on.

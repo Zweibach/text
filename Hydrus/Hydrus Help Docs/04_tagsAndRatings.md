@@ -18,7 +18,9 @@ Tag services are useful if you want to segregate certain types of tags or other 
 If you're downloading from a booru you're likely to see things like `creator:`, `character:`, and `series:`. These are called namespaces, useful for disambiguation, grouping, and searching.
 
 ### Siblings
-Also known as *alias* on some boorus. Maybe you're downloading from multiple boorus and they each have tags that mean the same thing, but are written differently. Maybe one writes it as `thighhighs` while another does `thigh-highs`. With siblings you can tell Hydrus that `thigh-highs -> thighhighs`, allowing you to find both tags when searching for either.
+Also known as *alias* on some boorus. Maybe you're downloading from multiple boorus and they each have tags that mean the same thing, but are written differently. Maybe one writes it as `thighhighs` while another does `thigh-highs`. With siblings you can tell Hydrus that `thigh-highs -> thighhighs`, allowing you to find both tags when searching for either.  
+It's also good for corrective actions, like changing `rei ayanami` into `character:ayanami rei`.  
+Take care not to create siblings involving ambigous tags or lossy siblings. Example: `jon` -> `jon smith` is bad since `jon` is a common name. `jon smith` -> `jon` is also bad since you loose information.
 
 ### Parents
 Also known as *implication* on some boorus. An always correct tag relationship can be made to have one be the parent of the other. Very common example on the Public Tag Repository is characters and series. `character:ash ketchum` is always from `series:pokémon` so can be given the relation `character:ash ketchum -> series:pokémon`. This way `series:pokémon` will always be added to files with the `character:ash ketchum` tag.
