@@ -1,5 +1,5 @@
-# Downloading files
 [Back to table of contents](00_tableOfContents.md)
+# Downloading files
 
 Start with opening a downloader page. Ctrl+T, double-clicking the tab bar, or navigating down `pages -> new download page` from the toolbar. Depending on what you want to download pick either: URL download if you have a bunch of tabs or bookmarks of image posts or just a big list of URLs. Watcher if you're on chans and want to scrape threads. Gallery if you want to download things with a specific tag from a booru/Pixiv/other gallery site, or an artist on Twitter/Pixiv/Artstation/Deviantart/etc.  
 For keeping up to date with a query (aka subscribing to a query) there's subscriptions found under `network -> manage subscriptions`.

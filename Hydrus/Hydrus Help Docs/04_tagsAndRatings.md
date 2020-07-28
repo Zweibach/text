@@ -1,5 +1,5 @@
-# Tags and ratings
 [Back to table of contents](00_tableOfContents.md)
+# Tags and ratings
 
 The primary tools used for finding things in your library. They come in a few different flavours. 
 

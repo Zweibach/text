@@ -1,10 +1,10 @@
-[] Getting and installing
-[] Importing and exporting files
-[] Downloading files
-- [] Getting additional downloaders
-[] Tagging files
-- [] Siblings
-- [] Parents
+[x] Getting and installing
+[x] Importing and exporting files
+[x] Downloading files
+- [x] Getting additional downloaders
+[x] Tagging files
+- [x] Siblings
+- [x] Parents
 - [] Tag sources
 [] Searching and sorting
 [] Duplicate management

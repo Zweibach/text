@@ -1,5 +1,5 @@
-# Importing and exporting files
 [Back to table of contents](00_tableOfContents.md)
+# Importing and exporting files
 
 By now you should have launched Hydrus. If you're like most new users you probably already have a fair bit of images or other media files that you're looking at getting organised. If not then head over to [downloading files](03_downloading.md).
 

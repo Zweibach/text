@@ -1,5 +1,6 @@
-# Installing Hydrus
 [Back to table of contents](00_tableOfContents.md)
+# Installing Hydrus
+
 ## Downloading
 First step is to download Hydrus. Depending on the source this might double as installing it too.
 
