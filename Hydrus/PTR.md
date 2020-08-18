@@ -31,6 +31,8 @@ For something to end up on the PTR it has to be pushed there. Tags can either be
 
 When making petitions it is important to remember that janitors are only human. We do not necessarily know everything about every niche. We do not necessarily have the files you are making changes for. Explain why you are making a petition. Try and keep the number of files manageable. If a janitor at any point is unsure if the petition is correct they are likely to deny the entire petition rather than risk losing good tags. Some users have pushed changes regarding hundreds of tags over thousands of files at once, but due to disregarding PTR tagging praxis or being lazy with justification the petition has been denied entirely.
 
+Furthermore, if you are two weeks out of sync with PTR you are unable to push additions or deletions until you're back within the threshold.
+
 `Q. Does this automagically tag my files?`  
 `A. No. Until we get machine learning based auto-tagging nothing is truly automatic. All tags on the PTR were uploaded by another user, so if nobody uploaded tags associated with the hash of your file it won't have any tags in the PTR.`
 
