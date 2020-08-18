@@ -45,9 +45,21 @@ A downloader page is simply one of the listed below downloaders open in a tab.
 ### Gallery/file log
 In any downloader page or subscription query there's a button that looks like three columns of thin lines. Hovering over it should show the text `open detailed gallery log--right-click for quick actions, if applicable`.
 
-## settings
+## Settings
+Editing default file import options: `file -> options -> importing`  
+Editing default tag import options: `network -> downloaders -> manage default tag import options`  
+Editing default downloader options: `file -> options -> downloading`
 
-## downloader types
+### File import options
+Regards to known URLs and hashes and what to do when ecountering one. Minimum and maximum filesize and resolution, what to do with files and such.
+
+### Tag import options
+Default parsed tags service, known URLs and hashes and what to do when encountering one. Default tag blacklist and whitelist. Can be set per parser.
+
+### Downloader options
+Icons used, default GUG, how often to run subscriptions and watchers by default, default search limit, etc.
+
+# **Downloader types**
 URL, watcher, gallery, and simple downloaders are found under `download` in the pages drop-down menu in the menu bar or double-clicking the tab bar. Subscription is found under `network -> downloaders -> manage subscriptions` in the menu bar.
 
 ### URL downloader
