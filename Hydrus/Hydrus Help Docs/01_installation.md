@@ -43,5 +43,8 @@ Recommended and used by dev and me. Somewhat basic but does the job well enough.
 FreeBSD, Linux, MacOS.  
 More advanced and featurefull backup tool.
 
+[Restic](https://restic.net/)  
+Almost every OS you can name.
+
 [Back to table of contents](00_tableOfContents.md)  
 [Onwards to importing files](02_importAndExport.md)
