@@ -2,53 +2,56 @@
 
 ## Starting out
 [introduction and statement of principles](https://hydrusnetwork.github.io/hydrus/help/introduction.html)
- - on being anonymous
- - the hydrus network
- - statement of principles
- - license
+ - [on being anonymous](https://hydrusnetwork.github.io/hydrus/help/introduction.html#anonymous)
+ - [the hydrus network](https://hydrusnetwork.github.io/hydrus/help/introduction.html#hydrus_network)
+ - [statement of principles](https://hydrusnetwork.github.io/hydrus/help/introduction.html#principles)
+ - [license](https://hydrusnetwork.github.io/hydrus/help/introduction.html#license)
 
 [installing, updating and backing up](https://hydrusnetwork.github.io/hydrus/help/getting_started_installing.html)
- - downloading
- - installing
- - updating
- - big updates
- - backing up
+ - [downloading](https://hydrusnetwork.github.io/hydrus/help/getting_started_installing.html#downloading)
+ - [installing](https://hydrusnetwork.github.io/hydrus/help/getting_started_installing.html#installing)
+ - [updating](https://hydrusnetwork.github.io/hydrus/help/getting_started_installing.html#updating)
+ - [clean installs](https://hydrusnetwork.github.io/hydrus/help/getting_started_installing.html#clean_installs)
+ - [big updates](https://hydrusnetwork.github.io/hydrus/help/getting_started_installing.html#big_updates)
+ - [backing up](https://hydrusnetwork.github.io/hydrus/help/getting_started_installing.html#backing_up)
    - the simple way - inside the client
    - the powerful way - using an external program
 
 [getting started with files](https://hydrusnetwork.github.io/hydrus/help/getting_started_files.html)
- - a warning
- - the problem
- - so, what does the hydrus client do?
- - inbox and archiving
- - filtering
- - lastly
+ - [a warning](https://hydrusnetwork.github.io/hydrus/help/getting_started_files.html#warning)
+ - [the problem](https://hydrusnetwork.github.io/hydrus/help/getting_started_files.html#hellmode_exe)
+ - [so, what does the hydrus client do?](https://hydrusnetwork.github.io/hydrus/help/getting_started_files.html#the_client)
+ - [inbox and archiving](https://hydrusnetwork.github.io/hydrus/help/getting_started_files.html#inbox)
+ - [filtering](https://hydrusnetwork.github.io/hydrus/help/getting_started_files.html#filtering_inbox)
+ - [lastly](https://hydrusnetwork.github.io/hydrus/help/getting_started_files.html#what_hydrus_is_for)
 
 [getting started with tags](https://hydrusnetwork.github.io/hydrus/help/getting_started_tags.html)
- - how do we find files?
- - OR searching
- - tag repositories
+ - [how do we find files?](https://hydrusnetwork.github.io/hydrus/help/getting_started_tags.html#intro)
+ - [OR searching](https://hydrusnetwork.github.io/hydrus/help/getting_started_tags.html#or_searching)
+ - [tag repositories](https://hydrusnetwork.github.io/hydrus/help/getting_started_tags.html#tag_repositories)
 
 [getting started with downloading](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html)
- - downloading
- - let's do it
- - parsing tags
- - default tag import options
- - watching threads
- - bandwidth
- - other downloading
- - logins
+ - [downloading](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#downloading)
+ - [let's do it](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#start)
+ - [parsing tags](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#parsing_tags)
+ - [default tag import options](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#default_tio)
+ - [watching threads](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#threads)
+ - [bandwidth](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#bandwidth)
+ - [subscriptions](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#subscriptions)
+ - [other downloading](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#other_downloaders)
+ - [logins](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#logins)
+ - [For multiple reasons, I do not recommend you use important accounts with hydrus. Use a throwaway account you don't care much about.](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html#warning)
 
 [getting started with ratings](https://hydrusnetwork.github.io/hydrus/help/getting_started_ratings.html)
- - like/dislike
- - numerical
- - now what?
+ - [like/dislike](https://hydrusnetwork.github.io/hydrus/help/getting_started_ratings.html#like_dislike)
+ - [numerical](https://hydrusnetwork.github.io/hydrus/help/getting_started_ratings.html#numerical)
+ - [now what?](https://hydrusnetwork.github.io/hydrus/help/getting_started_ratings.html#using_ratings)
 
 [access keys to the public tag repository](https://hydrusnetwork.github.io/hydrus/help/access_keys.html)
- - first off
- - easy setup
- - manually
- - jump-starting an install
+ - [first off](https://hydrusnetwork.github.io/hydrus/help/access_keys.html#)
+ - [easy setup](https://hydrusnetwork.github.io/hydrus/help/access_keys.html#)
+ - [manually](https://hydrusnetwork.github.io/hydrus/help/access_keys.html#)
+ - [jump-starting an install](https://hydrusnetwork.github.io/hydrus/help/access_keys.html#)
 
 ## The next step
 [more getting started with files](https://hydrusnetwork.github.io/hydrus/help/getting_started_more_files.html)
