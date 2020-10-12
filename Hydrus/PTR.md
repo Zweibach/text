@@ -26,12 +26,15 @@ For something to end up on the PTR it has to be pushed there. Tags can either be
 - Adding tags pass automatically.
 - Deleting (petitioning) tags requires janitor action.
 - If a tag has been deleted from a file it will not be added again.
-- Currently there is no way to re-add a deleted tag. If it gets deleted then it is gone.
+- Currently there is no way for a normal user to re-add a deleted tag. If it gets deleted then it is gone. A janitor can undelete tags manually.
 - Adding and petitioning siblings and parents all require janitor action.
+- The client always assumes the server approves any petition. If your petition gets rejected you wont know.
 
 When making petitions it is important to remember that janitors are only human. We do not necessarily know everything about every niche. We do not necessarily have the files you are making changes for. Explain why you are making a petition. Try and keep the number of files manageable. If a janitor at any point is unsure if the petition is correct they are likely to deny the entire petition rather than risk losing good tags. Some users have pushed changes regarding hundreds of tags over thousands of files at once, but due to disregarding PTR tagging praxis or being lazy with justification the petition has been denied entirely.
 
 Furthermore, if you are two weeks out of sync with PTR you are unable to push additions or deletions until you're back within the threshold.
+
+---
 
 `Q. Does this automagically tag my files?`  
 `A. No. Until we get machine learning based auto-tagging nothing is truly automatic. All tags on the PTR were uploaded by another user, so if nobody uploaded tags associated with the hash of your file it won't have any tags in the PTR.`
@@ -44,6 +47,8 @@ Furthermore, if you are two weeks out of sync with PTR you are unable to push ad
 
 `Q. Why is my database so big!? This can't be right.`  
 `A. It is working as intended. The size is because you are literally downloading and processing the entire tag database and history of the PTR. It is done this way to ensure redundancy and privacy. Redundancy because anybody with an up-to-date PTR sync can just start their own. Privacy because nobody can tell what files you have since you are downloading the tags for everything the PTR has.`
+
+---
 
 ### Janitors
 Janitors are the people that review petitions. You can meet us at the community [Discord](https://discord.gg/3H8UTpb) to ask questions or see us bitch about some of the silly stuff boorus and users cause to end up in the PTR.
