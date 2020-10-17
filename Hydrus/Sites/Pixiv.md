@@ -14,3 +14,7 @@ If you decide to use Hydrus Companion, you can also set it up to send the cookie
 ## 403/Cloudflare error in downloaders
 Pixiv recently did *something* causing Hydrus and other scraping utilities to hit Cloudflare if logged in, presumably as an anti-bot measure. See [this](https://github.com/Nandaka/PixivUtil2/issues/814#issuecomment-708224059) PixivUtil2 issue for more info. Current workaround is to just change your Pixiv password. Remember to delete cookies in Hydrus before reimporting them to be safe.  
 Cookies are found under `network > data > review session cookies`. Select Pixiv and click the "clear" button.
+
+If the above doesn't work you might also need to match user agent.  
+Go to https://www.whatismybrowser.com/detect/what-is-my-user-agent to see what yours is.  
+Copy it and go to `network > data > manage http headers` and either change the global header or create one specifically for Pixiv. See one of the existing ones for examples.
