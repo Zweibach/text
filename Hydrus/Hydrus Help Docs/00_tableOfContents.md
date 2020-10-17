@@ -1,5 +1,5 @@
 # Hydrus Help Documents
-These help pages are intentionally written to be more basic and less comprehensive than the official help pages. If you want something that goes beyond the basics of scratching the surface go read them.
+These help pages are intentionally written to be more basic and less comprehensive than the official help pages. If you want something that goes beyond the basics of scratching the surface go read them [here](https://hydrusnetwork.github.io/hydrus/help/).
 
 ## [Installation](01_installation.md)
 Covers downloading, installing, updating, and backing up Hydrus.
