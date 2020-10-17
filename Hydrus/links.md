@@ -23,6 +23,9 @@ Note: This program does not actually archive or delete any files from hydrus, it
 
 ## Other
 
+[Hydroid](https://github.com/thatfuckingbird/hydroid)
+> A Hydrus client.
+
 [Hyve](https://github.com/imtbl/hyve)
 > (in maintenance mode, no new features planned for now)
 hyve is an application that allows you to serve hydrus media over an HTTP API. It can connect to either hydrus client or server. A web-based, booru-like client (optimized for both desktop and mobile) that consumes the API is also included.
