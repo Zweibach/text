@@ -11,13 +11,14 @@ Unless you have manually set potential duplicates you have to head to the tab la
 
 Search distance is how similar images need to be to be flagged as duplicates. The `Exact duplicate` setting already catches a lot, such a differences in facial expressions, semen/no semen variants, censoring/no censoring, colour/greyscale, and other small variants. Colour, file size, and aspect ratio doesn't matter to being found as duplicates but will affect weight (weights are found and edited under `file -> options -> duplicates`) when running the dupe filter.
 
-Click the `Play` looking button to start the search and then head on over to the next tab when it's done.
+Click the `Play` looking button to start the search and then head on over to the next tab when it's done. The search is done over all files in your database and not in the trash.
 
 ## Filtering
 Go to the `filtering` tab to get started doing filtering. Check the `edit default duplicate metadata merge options` to know what Hydrus will do when you pick any of the filter options. Do note that filter decisions aren't final until you exit the filter and press `commit` when asked about your decisions. If you think you've done wrong you can step back by pressing the arrows or just press `forget` to discard all decisions.
 
 Keybinds/shortcuts can be found under `file -> shortcuts -> media viewer - duplicate filter` or by hovering the decision buttons in the dupe filter.
 
+You can make queries in the duplicate filter much like you can a normal search. This allows you to, for example, run the dupe filter over all `system:filetype is image` tagged with `series:kantai collection`. The checkbox below the search box is for if you want both files in any pair of potential duplicates to match the query or not.
 
 [Back to table of contents](00_tableOfContents.md)  
 [Onwards to API](07_api.md)
