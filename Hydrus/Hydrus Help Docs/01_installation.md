@@ -25,7 +25,10 @@ If you're worried about space then you can use use the `migrate database` featur
 If you're planning to run the Public Tag Repository (PTR) you will need about 40 GB.
 
 ## Updating
-Hydrus does not have automatic updates. Release is usually once a week on Wednesdays. Just follow the steps you did for downloading and installing to update.
+Hydrus does not have automatic updates. Release is usually once a week on Wednesdays. Just follow the steps you did for downloading and installing to update. Remember to backup.
+
+If you're on an old version it's wise to not do it in too big chunks, ten is almost always safe. Remember to start Hydrus between each update so the databse can upgrade to the new version.  
+If you're on a pre-335 version you must follow the instructions in the [v335 release post](https://github.com/hydrusnetwork/hydrus/releases/tag/v335).
 
 ## Backups
 To avoid loosing data, make sure to backup as often as possible or convenient. I do it at least once a week before updating Hydrus.  
