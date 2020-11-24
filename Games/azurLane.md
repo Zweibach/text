@@ -9,7 +9,7 @@ The Azur Lane English wiki.
 [al-data](https://al-data.github.io/nodes)
  - Node information detailing enemies and waves
  - Enemy information
- - Mewofficcers
+ - Meowfficcers
 
 [AL Tier Guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/AL%20Tier%20Guide.md)  
 Tier guide that explains the placement reasoning and list suggested equipment.
