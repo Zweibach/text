@@ -14,3 +14,15 @@ Drop statistics database.
 
 [Gamepress - Arknights](https://gamepress.gg/arknights/)  
 Guides, operator analysis, news, etc.
+
+# My "meta" units
+Zweibach#0690
+Operator | Level | S1 | S2 | S3 
+--- | --- | --- | --- | ---
+SilverAsh | E2 90 | 7 | 7 | M3
+Eyjafjalla | E2 90 | 7 | M3 | 7
+Angelina | E2 50 | 7 | 7 | M3
+Exusiai | E2 42 | 7 | 7 | M3
+Saria | E2 20 | M1 | M3 | 7
+Meteorite | E2 20 | M3 | 7 | -
+Myrtle | E2 20 | M3 | 7 | -
