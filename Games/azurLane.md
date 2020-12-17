@@ -11,8 +11,5 @@ The Azur Lane English wiki.
  - Enemy information
  - Meowfficcers
 
-[AL Tier Guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/AL%20Tier%20Guide.md)  
-Tier guide that explains the placement reasoning and list suggested equipment.
-
 [PVE Equipment Guide](https://github.com/guroteske/al-guides/blob/master/Equipment%20Guide.md)  
 Equipment tier guide by slot.
