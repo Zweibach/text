@@ -11,7 +11,7 @@ Do you want to share some files and tags in a small group of friends? You might 
 The Hydrus server doesn't really work as most people envision a server working. When you sync with a Hydrus server you get everything it has, a complete copy. You can't have it host files which you can then search and selectively retrieve, it's all or nothing.
 
 ## The options
-Now, you're not the first person to have any of the above ideas and some of the thinkers even had enough programming know-how to make something for it. Below is a list of some options, see [this page](/text/Hydrus/links.md) for a few more.
+Now, you're not the first person to have any of the above ideas and some of the thinkers even had enough programming know-how to make something for it. Below is a list of some options, see [this page](links.md) for a few more.
 
 ### [Hydrus Web](https://github.com/floogulinc/hydrus-web)
  - Lets you browse and manage your collection.
