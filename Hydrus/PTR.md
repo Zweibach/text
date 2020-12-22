@@ -17,7 +17,7 @@ Most of the things in this document also applies to [self-hosted servers](https:
 
 ### Connecting to the PTR
 The easiest method is to use the built in function, found under `help -> add the public tag repository`. For adding it manually, if you so desire, read the Hydrus help document on [access keys](https://hydrusnetwork.github.io/hydrus/help/access_keys.html).  
-If you are starting out completely fresh you can also download the update files or a fully synced client [here](https://cuddlebear92.github.io/Quicksync/). Though possibly a bit out of date it will none the less save time. Some settings may differ from the defaults of an official installation.  
+If you are starting out completely fresh you can also download a fully synced client [here](https://koto.reisen/quicksync/). Though possibly a bit (couple of days or so usually) out of date it will none the less save time. Some settings may differ from the defaults of an official installation.  
 Once you are connected Hydrus will proceed to download and then process the update files. The progress of this can be seen under `services -> review services -> remote -> tag repositories -> public tag repository`. Here you can view its status, your account (the default account is a shared public account. Currently only janitors and the administrator have personal accounts), tag status, and how synced you are. Being behind on the sync by a certain amount makes you unable to push tags and petitions until you are caught up again.
 
 ### How does it work?
