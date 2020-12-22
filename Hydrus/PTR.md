@@ -11,7 +11,7 @@ or
   - [Namespaces](#namespaces)
 
 ### What is the PTR?  
-Short for **P**ublic **T**ag **R**epository, a now community managed repository of tags. Locally it acts as a tag service, just like `my tags`. At the time of writing 39 million files have tags on it. The PTR only store the sha256 hash and tag mappings of a file, not the files themselves or any non-tag meta data. In other words: If you don not see it in the tag list then it is not stored.
+Short for **P**ublic **T**ag **R**epository, a now community managed repository of tags. Locally it acts as a tag service, just like `my tags`. At the time of writing 54 million files have tags on it. The PTR only store the sha256 hash and tag mappings of a file, not the files themselves or any non-tag meta data. In other words: If you don not see it in the tag list then it is not stored.
 
 Most of the things in this document also applies to [self-hosted servers](https://hydrusnetwork.github.io/hydrus/help/server.html), except for tag guidelines.
 
@@ -21,7 +21,7 @@ If you are starting out completely fresh you can also download the update files 
 Once you are connected Hydrus will proceed to download and then process the update files. The progress of this can be seen under `services -> review services -> remote -> tag repositories -> public tag repository`. Here you can view its status, your account (the default account is a shared public account. Currently only janitors and the administrator have personal accounts), tag status, and how synced you are. Being behind on the sync by a certain amount makes you unable to push tags and petitions until you are caught up again.
 
 ### How does it work?
-For something to end up on the PTR it has to be pushed there. Tags can either be entered into the tag service manually by the user through the `manage tags` window, or be routed there by a parser when downloading files. See [parsing tags](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html). Once tags have been entered into the PTR tag service they are pending until pushed. This is indicated by the `pending ()` that will appear between `database` and `network` in the menu bar. Here you can chose to either push your changes to the PTR or discard them.
+For something to end up on the PTR it has to be pushed there. Tags can either be entered into the tag service manually by the user through the `manage tags` window, or be routed there by a parser when downloading files. See [parsing tags](https://hydrusnetwork.github.io/hydrus/help/getting_started_downloading.html). Once tags have been entered into the PTR tag service they are pending until pushed. This is indicated by the `pending ()` that will appear between `tags` and `help` in the menu bar. Here you can chose to either push your changes to the PTR or discard them.
 
 - Adding tags pass automatically.
 - Deleting (petitioning) tags requires janitor action.
@@ -30,7 +30,7 @@ For something to end up on the PTR it has to be pushed there. Tags can either be
 - Adding and petitioning siblings and parents all require janitor action.
 - The client always assumes the server approves any petition. If your petition gets rejected you wont know.
 
-When making petitions it is important to remember that janitors are only human. We do not necessarily know everything about every niche. We do not necessarily have the files you are making changes for. Explain why you are making a petition. Try and keep the number of files manageable. If a janitor at any point is unsure if the petition is correct they are likely to deny the entire petition rather than risk losing good tags. Some users have pushed changes regarding hundreds of tags over thousands of files at once, but due to disregarding PTR tagging praxis or being lazy with justification the petition has been denied entirely.
+When making petitions it is important to remember that janitors are only human. We do not necessarily know everything about every niche. We do not necessarily have the files you are making changes for. Explain why you are making a petition. Try and keep the number of files manageable. If a janitor at any point is unsure if the petition is correct they are likely to deny the entire petition rather than risk losing good tags. Some users have pushed changes regarding hundreds of tags over thousands of files at once, but due to disregarding PTR tagging practices or being lazy with justification the petition has been denied entirely. Or they have just been plain wrong, trying to impose frankly stupid tagging methods.
 
 Furthermore, if you are two weeks out of sync with PTR you are unable to push additions or deletions until you're back within the threshold.
 
@@ -48,6 +48,9 @@ Furthermore, if you are two weeks out of sync with PTR you are unable to push ad
 `Q. Why is my database so big!? This can't be right.`  
 `A. It is working as intended. The size is because you are literally downloading and processing the entire tag database and history of the PTR. It is done this way to ensure redundancy and privacy. Redundancy because anybody with an up-to-date PTR sync can just start their own. Privacy because nobody can tell what files you have since you are downloading the tags for everything the PTR has.`
 
+`Q. Does that mean I can't do anything about the size?`  
+`A. Correct. There are some plans to crunch the size through a few methods but there are a lot of other far more requested features being, well, requested. Speaking crassly if you are bothered by the size requirement of the PTR you probably don't have a big enough library to really benefit and would be better of just using the IQDB script.`
+
 ---
 
 ### Janitors
@@ -55,7 +58,7 @@ Janitors are the people that review petitions. You can meet us at the community 
 
 ### Tag Guidelines
 
-These are a mix of standard praxis used by various boorus and changes made by Hydrus Developer and PTR users, ratified by the janitors that actually have to manage all of this. The "full" document is viewable at [Cuddle's git repo](https://raw.githubusercontent.com/CuddleBear92/Hydrus-Presets-and-Scripts/master/tag%20guidelines). See Hydrus Developer's [thoughts on a public tagging schema](https://hydrusnetwork.github.io/hydrus/help/tagging_schema.html).
+These are a mix of standard practice used by various boorus and changes made by Hydrus Developer and PTR users, ratified by the janitors that actually have to manage all of this. The "full" document is viewable at [Cuddle's git repo](https://raw.githubusercontent.com/CuddleBear92/Hydrus-Presets-and-Scripts/master/tag%20guidelines). See Hydrus Developer's [thoughts on a public tagging schema](https://hydrusnetwork.github.io/hydrus/help/tagging_schema.html).
 
 If you are looking to help out by tagging low tag-count files, remember to keep the tags objective, start simple by for example adding the characters/persons and big obvious things in the image or what else. Tagging every little thing and detail is a sure path to burnout.  
 If you are looking to petition removal of tags then it is preferable to sibling common misspellings, underscores, and defunct tags rather than deleting them outright. The exception is for ambiguous tags where it is better to delete and replace with a less ambiguous tag. When deleting tags that don't belong in the image it can be helpful if you include a short description as to why.  
