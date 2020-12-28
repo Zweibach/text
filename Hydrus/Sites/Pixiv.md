@@ -18,3 +18,12 @@ Cookies are found under `network > data > review session cookies`. Select Pixiv 
 If the above doesn't work you might also need to match user agent.  
 Go to https://www.whatismybrowser.com/detect/what-is-my-user-agent to see what yours is.  
 Copy it and go to `network > data > manage http headers` and either change the global header or create one specifically for Pixiv. See one of the existing ones for examples.
+
+```
+Dave 魔の友: just to add to list of data for the 403 cloudflare issues on pixiv:
+- i was not prompted to change password, but got 403 cloudflare errors in hydrus
+- logged out of pixiv, on logging back in i was prompted to change password
+- cleared pixiv cookies under "review session cookies" in hydrus
+- turned on hydrus companion, sent cookies to hydrus
+- the new cookie had a session id with the underscore, downloading still yielded 403 error
+- i edited the session id of the cookie, removing the id prefix and underscore, downloading now works including r-18```
