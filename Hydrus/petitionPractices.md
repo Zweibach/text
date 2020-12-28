@@ -1,3 +1,10 @@
+## General practice
+Kindly avoid creating unnecessary work.  
+Create siblings for underscore and non-namespaced/namespaced versions.  
+Petition for deletion if they are wrong. Providing a reason outside of the stock choices helps the petition getting accepted.
+
+Eventually the PTR janitors will get tools to replace various bad but correct tags on the server itself. These include underscored, wrong or no namespace, common misspelling, wrong locale, and so on. Since we're going to have to do the job eventually anyway there's not much of a point making us do it twice by petitioning the existing bad but correct tags. Just sibling them and leave them be for now.
+
 ## Ambiguity
 Don't make additions involving ambiguous tags. `hibiki` -> `character:hibiki (kantai collection)` is bad since there's far more than one character with that name. There's quite a few wrongly tagged images because of things like this. Petitioning the deletion of such a bad sibling is good.
 
