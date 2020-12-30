@@ -26,6 +26,9 @@ Note: This program does not actually archive or delete any files from hydrus, it
 [Hydroid](https://github.com/thatfuckingbird/hydroid)
 > A Hydrus client.
 
+[Client container for Docker](https://hub.docker.com/r/suika/hydrus)
+> Latest hydrus client that runs in docker 24/7. Employs xvfb and vnc. Runs on alpine.
+
 [Hyve](https://github.com/imtbl/hyve)
 > (in maintenance mode, no new features planned for now)
 hyve is an application that allows you to serve hydrus media over an HTTP API. It can connect to either hydrus client or server. A web-based, booru-like client (optimized for both desktop and mobile) that consumes the API is also included.
@@ -41,6 +44,9 @@ hyve is an application that allows you to serve hydrus media over an HTTP API. I
 Sends the selected files/directories/archives to Hydrus, with user defined tags. It works recursively (files in subdirectories will also be found, etc).
 By default it also extracts archives and sends their contents instead of the archive files themselves. It does this recursively too.
 It does not delete any files and there is a confirmation dialog with a list of files before the files are sent to Hydrus.
+
+[Server container for Docker](https://hub.docker.com/r/mtbl/hydrus-server-docker)
+> This is a simple Debian-based Docker setup for running hydrus server from source.
 
 ## API libraries
 [Hydrus-api](https://gitlab.com/cryzed/hydrus-api) for Python.
