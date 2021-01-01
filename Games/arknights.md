@@ -23,11 +23,11 @@ SilverAsh | E2 90 | 7 | 7 | M3
 Eyjafjalla | E2 90 | 7 | M3 | 7
 Angelina | E2 50 | 7 | 7 | M3
 Exusiai | E2 42 | 7 | 7 | M3
-Saria | E2 20 | M2 | M3 | 7
+Saria | E2 20 | M2 | M3 | M1
 Meteorite | E2 20 | M3 | 7 | -
 Myrtle | E2 20 | M3 | 7 | -
 Ifrit | E2 30 | 7 | 7 | 7
-Blaze | E2 20 | 5 | 5 | 5
+Blaze | E2 50 | 7 | 7 | 7
 Hellagur | E1 80 | 7 | 7 | -
 Hoshiguma | E1 80 | 7 | 7 | -
 Nightingale | E1 80 | 7 | 7 | -
