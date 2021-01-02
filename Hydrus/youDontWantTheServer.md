@@ -1,14 +1,19 @@
 # You don't want the server
+The server.exe is the victim of many a misconception.
+
+## The server
+The Hydrus server doesn't really work as most people envision a server working. When you sync with a Hydrus server you get everything it has, a complete copy. You can't have it host files which you can then search and selectively retrieve, it's all or nothing.
+
+## You don't want the server (probably)
 Do you want to remotely view your files? You don't want the server.
 
 Do you want to host your files on another computer since your daily driver don't have a lot of storage space? You don't want the server.
 
 Do you want to use multiple clients and have everything synced between them? You don't want the server.
 
-Do you want to share some files and tags in a small group of friends? You might actually want the server.
+Do you want to expose API for Hydrus Web, Hydroid, or some other third-party tool? You don't want the server.
 
-## The server
-The Hydrus server doesn't really work as most people envision a server working. When you sync with a Hydrus server you get everything it has, a complete copy. You can't have it host files which you can then search and selectively retrieve, it's all or nothing.
+Do you want to share some files and tags in a small group of friends? You might actually want the server.
 
 ## The options
 Now, you're not the first person to have any of the above ideas and some of the thinkers even had enough programming know-how to make something for it. Below is a list of some options, see [this page](links.md) for a few more.
