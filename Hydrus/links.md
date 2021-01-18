@@ -21,6 +21,9 @@ Note: This program does not actually archive or delete any files from hydrus, it
 [Animeboxes](https://www.animebox.es/) for Android and iOS.
 > Anime boxes is a fully featured client for sites running Gelbooru, Danbooru and Shimmie 2, that allows you to browse among thousands of anime related images.
 
+[LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) for Android.
+> A booru client with support for batch downloading, written in Dart/Flutter for Android but may support more platforms in the future.
+
 ## Other
 
 [Hydroid](https://github.com/thatfuckingbird/hydroid)
