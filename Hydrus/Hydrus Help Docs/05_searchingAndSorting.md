@@ -7,10 +7,10 @@ Just open a search/files page and start typing away in the search field which sh
 
 Hydrus will treat a space the same way as an underscore when searching so the query `hydrus network` will find files tagged with `hydrus network` and `hydrus_network`.
 
-Tags will be searchable by all its siblings. If there's a sibling for `large` -> `huge` then the query `large` will find files tagged with either. This goes for the whole sibling chain, no matter how deep or a tag's position in it.
+Tags will be searchable by all its siblings. If there's a sibling for `large` -> `huge` then the query `large` will find files tagged with either and so will a search for `huge`. This goes for the whole sibling chain, no matter how deep or a tag's position in it.
 
 ### System predicates
-Tags are intended to tell you about content in the file and unlike tags are assigned by Hydrus itself based on file attributes. System predicates on the other hand deals with the files themselves for the most part: How big a file is, resolution, number of pixels, sound or no sound, number of tags assigned to the file, time imported, and quite a few other things. System predicates are the things prefixed with `system:` in the window that appear when you click in the search box.
+Tags are intended to tell you about content in the file while system predicates on the other hand deals with the files themselves for the most part: How big a file is, resolution, number of pixels, sound or no sound, number of tags assigned to the file, time imported, and quite a few other things. System predicates are the things prefixed with `system:` in the window that appear when you click in the search box.
 
 ### OR searching
 Hydrus supports OR searching, aka searching for two or more tags and presenting all files that have at least one of the tags. For example the query `red eyes` OR `green eyes` will present you with files that are tagged with red eyes or green eyes or both.
