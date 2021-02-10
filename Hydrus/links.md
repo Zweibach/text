@@ -10,8 +10,6 @@
 
 [Hydrus Archive Delete](https://gitgud.io/koto/hydrus-archive-delete)
 > A web based archive/delete filter for Hydrus  
-Note: This program does not actually archive or delete any files from hydrus, it only marks them with either a
-“hydrus-archive-delete:archive” or “hydrus-archive-delete:delete” tag. You will still have to use a client to delete or archive files with these tags
 
 ## Phone apps
 [Hydrus-App](https://github.com/git4unrealnondev/Hydrus-App) for Android.
