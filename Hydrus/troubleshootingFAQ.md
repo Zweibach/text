@@ -2,13 +2,16 @@
 **FIRST STEP: MAKE SURE YOU'RE ON THE LATEST VERSION OF HYDRUS**  
 Depressingly often somebody comes and asks about issues that were solved and fixed already. Don't be that guy, update your Hydrus.
 
+Images appearing where they shouldn't.
+ - Check so you don't have an export folder that is causing this.
+
 ## Downloaders not grabbing content
 **1. MAKE SURE YOU HAVE A PARSER FOR THE SITE**  
 **2. MAKE SURE IT'S THE LATEST VERSION AVAILABLE**  
 For Hydrus defaults you usually need to delete them and use the restore from defaults button. For ones taken from the presets repo check if there's a newer version there, delete what you have and import that. If not, well tough luck.
 
 `Looks like HTML -- maybe the client needs to be taught how to parse this?`  
- - There's no parser for the content.
+ - There's no parser for the content or if a parser exists it might not be linked to its URL class.
  
  `403`
   - Often happens with Cloudflare.
