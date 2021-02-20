@@ -15,6 +15,9 @@ Drop statistics database.
 [Gamepress - Arknights](https://gamepress.gg/arknights/)  
 Guides, operator analysis, news, etc.
 
+### Farming guide
+![](https://i.imgur.com/o6sRYmH.png)
+
 # My "meta" units
 Zweibach#0690
 6\* Operator | Level | S1 | S2 | S3 
@@ -22,7 +25,7 @@ Zweibach#0690
 Angelina | E2 50 | 7 | 7 | M3
 Blaze | E2 71 | 7 | 7 | 7
 Exusiai | E2 42 | 7 | 7 | M3
-Eyjafjalla | E2 90 | 7 | M3 | 7
+Eyjafjalla | E2 90 | 7 | M3 | M3
 Hellagur | E2 1 | 7 | 7 | 7
 Hoshiguma | E1 80 | 7 | 7 | -
 Ifrit | E2 30 | 7 | 7 | 7
@@ -30,13 +33,13 @@ Magallan | E1 80 | 7 | 7 | -
 Nightingale | E2 20 | 7 | 7 | 7
 Saria | E2 20 | M3 | M3 | M3
 Shining | E1 80 | 7 | 7 | -
-Siege | E2 20 | 7 | 7 | 7
+Siege | E2 20 | 7 | M2 | 7
 SilverAsh | E2 90 | 7 | 7 | M3
-Suzuran | E2 1 | 7 | 7 | M3
+Suzuran | E2 1 | 7 | M1 | M3
 W | E1 42 | 7 | 7 | -
 
 5\* Operator | Level | S1 | S2
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 Blue Poison | E2 20 | M3 | 7
 Meteorite | E2 20 | M3 | 7
 Bibeak | E2 20 | 7 | 7
@@ -44,6 +47,6 @@ Lappland | E2 60 | 7 | M3
 Ptilopsis | E2 30 | 7 | 7
 
 4\* Operator | Level | S1 | S2
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 Myrtle | E2 20 | M3 | 7
 Ethan | E2 1 | 7 | 7
