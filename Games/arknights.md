@@ -23,20 +23,23 @@ Zweibach#0690
 6\* Operator | Level | S1 | S2 | S3 
 --- | --- | --- | --- | ---
 Angelina | E2 50 | 7 | 7 | M3
-Blaze | E2 71 | 7 | 7 | 7
-Exusiai | E2 42 | 7 | 7 | M3
+Blaze | E2 90 | 7 | M3 | 7
+Ch'en | E2 20 | 7 | M2 | 7
+Eunectes | E1 80 | 7 | 7 | - 
+Exusiai | E2 60 | 7 | 7 | M3
 Eyjafjalla | E2 90 | 7 | M3 | M3
 Hellagur | E2 1 | 7 | 7 | 7
 Hoshiguma | E1 80 | 7 | 7 | -
 Ifrit | E2 30 | 7 | 7 | 7
 Magallan | E1 80 | 7 | 7 | -
 Nightingale | E2 20 | 7 | 7 | 7
-Saria | E2 20 | M3 | M3 | M3
+Saria | E2 60 | M3 | M3 | M3
 Shining | E1 80 | 7 | 7 | -
 Siege | E2 20 | 7 | M2 | 7
 SilverAsh | E2 90 | 7 | 7 | M3
+Surtr | E1 1 | 7 | 7 | -
 Suzuran | E2 1 | 7 | M1 | M3
-W | E1 42 | 7 | 7 | -
+W | E2 20 | 7 | 7 | M1
 
 5\* Operator | Level | S1 | S2
 --- | --- | --- | ---
