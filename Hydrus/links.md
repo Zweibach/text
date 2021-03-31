@@ -34,6 +34,9 @@
 > (in maintenance mode, no new features planned for now)
 hyve is an application that allows you to serve hydrus media over an HTTP API. It can connect to either hydrus client or server. A web-based, booru-like client (optimized for both desktop and mobile) that consumes the API is also included.
 
+[Hybooru](https://github.com/funmaker/hybooru)  
+> Hydrus-based booru-styled imageboard in React
+
 [Hex](https://github.com/imtbl/hex)
 > hex is a tool that connects to the hydrus client API and allows you to download and import ExHentai galleries via the archive download method (instead of scraping the images), alongside their tags and URL association.
 
