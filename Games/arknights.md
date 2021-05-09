@@ -29,15 +29,15 @@ Eunectes | E1 80 | 7 | 7 | -
 Exusiai | E2 60 | 7 | 7 | M3
 Eyjafjalla | E2 90 | 7 | M3 | M3
 Hellagur | E2 1 | 7 | 7 | 7
-Hoshiguma | E1 80 | 7 | 7 | -
-Ifrit | E2 30 | 7 | 7 | 7
+Hoshiguma | E2 20 | 7 | 7 | 7
+Ifrit | E2 30 | 7 | M1 | 7
 Magallan | E1 80 | 7 | 7 | -
 Nightingale | E2 20 | 7 | 7 | 7
 Saria | E2 60 | M3 | M3 | M3
-Shining | E1 80 | 7 | 7 | -
+Shining | E2 60 | 7 | 7 | 7
 Siege | E2 20 | 7 | M2 | 7
 SilverAsh | E2 90 | 7 | 7 | M3
-Surtr | E1 1 | 7 | 7 | -
+Surtr | E2 1 | 7 | M2 | 7
 Suzuran | E2 1 | 7 | M1 | M3
 W | E2 20 | 7 | 7 | M1
 
