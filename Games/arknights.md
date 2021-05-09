@@ -43,13 +43,13 @@ W | E2 20 | 7 | 7 | M1
 
 5\* Operator | Level | S1 | S2
 --- | --- | --- | ---
-Blue Poison | E2 20 | M3 | 7
-Meteorite | E2 20 | M3 | 7
 Bibeak | E2 20 | 7 | 7
+Blue Poison | E2 20 | M3 | 7
 Lappland | E2 60 | 7 | M3
+Meteorite | E2 20 | M3 | 7
 Ptilopsis | E2 30 | 7 | 7
 
 4\* Operator | Level | S1 | S2
 --- | --- | --- | ---
-Myrtle | E2 20 | M3 | 7
 Ethan | E2 1 | 7 | 7
+Myrtle | E2 20 | M3 | 7
