@@ -16,7 +16,7 @@ Drop statistics database.
 Guides, operator analysis, news, etc.
 
 ### Farming guide
-![](https://i.imgur.com/o6sRYmH.png)
+![](https://i.imgur.com/NfJo8Ia.png)
 
 # My "meta" units
 Zweibach#0690
