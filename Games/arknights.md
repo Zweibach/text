@@ -30,7 +30,7 @@ Exusiai | E2 60 | 7 | 7 | M3
 Eyjafjalla | E2 90 | 7 | M3 | M3
 Hellagur | E2 1 | 7 | 7 | 7
 Hoshiguma | E2 20 | 7 | 7 | 7
-Ifrit | E2 30 | 7 | M1 | 7
+Ifrit | E2 30 | 7 | M3 | 7
 Magallan | E1 80 | 7 | 7 | -
 Nightingale | E2 20 | 7 | 7 | 7
 Saria | E2 60 | M3 | M3 | M3
