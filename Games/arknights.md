@@ -24,6 +24,7 @@ Zweibach#0690
 --- | --- | --- | --- | ---
 Angelina | E2 50 | 7 | 7 | M3
 Blaze | E2 90 | 7 | M3 | 7
+Blemishine | E1 80 | 7 | 7 | -
 Ch'en | E2 20 | 7 | M2 | 7
 Eunectes | E1 80 | 7 | 7 | - 
 Exusiai | E2 60 | 7 | 7 | M3
@@ -32,6 +33,7 @@ Hellagur | E2 1 | 7 | 7 | 7
 Hoshiguma | E2 20 | 7 | 7 | 7
 Ifrit | E2 30 | 7 | M3 | 7
 Magallan | E1 80 | 7 | 7 | -
+Mudrock | E1 80 | 7 | 7 | -
 Nightingale | E2 20 | 7 | 7 | 7
 Saria | E2 60 | M3 | M3 | M3
 Shining | E2 60 | 7 | 7 | 7
