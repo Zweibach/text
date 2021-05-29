@@ -16,7 +16,7 @@ Thumbnails are part of #3 but can be assigned a separate location.
 Easiest is if you do it before you actually start importing any images but doing it afterwards is no problem either.
 
 ### 1. The installation
-You can put this pretty much wherever you want since it's only a few hundred megabytes at most discounting the database files. Only things to really keep in mind is that your user account has full right and read rights for the location. But if you have upwards of 50GB free (if you are using or intend to use the PTR) on an SSD then just install there.
+You can put this pretty much wherever you want since it's only a few hundred megabytes at most discounting the database files. Only things to really keep in mind is that your user account has full write and read rights for the location. But if you have upwards of 50GB free (if you are using or intend to use the PTR) on an SSD then just install there.
 
 If you want to move it after install it's pretty much as simple as copypasting it to the new location. If you used an installer you might need to rerun the installer and point to the new location to make sure all registries also point in the right direction but it's not actually important.
 
@@ -28,7 +28,7 @@ If you put the database files in a non-default location (that being `../Hydrus N
 ### 3. The media files
 Now these, these are the chunky ones especially if you have a lot of videos or the ridiculously oversized paywalled .pngs some artists provide.
 
-The simple way is to turn off Hydrus, go to its install folder, down the `db` folder, find the `client_files` folder and just moving it where you want it. When you start Hydrus again you will be warned you that Hydrus can't find the files and ask if you know where they are and point Hydrus towards the folder they are in now.  
+The simple way is to turn off Hydrus, go to its install folder, down the `db` folder, find the `client_files` folder and just moving it where you want it. When you start Hydrus again you will be warned that Hydrus can't find the files and will be asked if you know where they are and point Hydrus towards the folder they are in now.  
 The "proper" way is to open Hydrus, go to `database -> migrate database`, create a new location and crank its weight to 1 so the new location now says 100% files under "ideal usage". Hydrus will now move files over when running regular maintenance or you can click the `move files now` button to force it. You can have multiple locations with their own weights if you can't fit everything on a single drive or want to somewhat guard against drive failure (backups are the best protection!).
 
 Do note that you have no control over what goes where, only how much.
