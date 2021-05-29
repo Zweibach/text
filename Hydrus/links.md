@@ -22,6 +22,9 @@
 [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) for Android.
 > A booru client with support for batch downloading, written in Dart/Flutter for Android but may support more platforms in the future.
 
+[Send-to-Hydrus](https://github.com/Wyrrrd/send-to-hydrus)
+> Share URLs on Android into Hydrus Client API
+
 ## Other
 
 [Hydroid](https://github.com/thatfuckingbird/hydroid)
@@ -51,6 +54,9 @@ It does not delete any files and there is a confirmation dialog with a list of f
 
 [Server container for Docker](https://hub.docker.com/r/mtbl/hydrus-server-docker)
 > This is a simple Debian-based Docker setup for running hydrus server from source.
+
+[Subcount](https://github.com/floogulinc/subcount/tree/master)
+> Count your subscriptions on Patreon and Fanbox
 
 ## API libraries
 [Hydrus-api](https://gitlab.com/cryzed/hydrus-api) for Python.
