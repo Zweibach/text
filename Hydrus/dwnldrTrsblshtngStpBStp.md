@@ -20,7 +20,7 @@ The Cuddlebear downloaders repository. If it doesn't exist or is outdated either
 Just update your damn Hydrus.
 
 ### 4. Delete the old parser and import/restore it.
-Go into the gallery url generators, url classes, and parser management panels, select anything related to the troublesome site and delete them. Then either use the add defaults button to add them back in, or re-import the downloader objects.
+Go into the gallery url generators, url classes, and parser management panels (found in `network > downloader components`), select anything related to the troublesome site and delete them. Then either use the add defaults button to add them back in, or re-import the downloader objects.
 
 ### 5. Repeat all steps as necessary.
 Yes, really.
