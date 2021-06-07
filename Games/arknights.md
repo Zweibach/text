@@ -26,7 +26,7 @@ Melee | Level | S1 | S2 | S3 | Ranged | Level | S1 | S2 | S3
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Blaze | E2 90 | 7 | M3 | 7 |Angelina | E2 50 | 7 | 7 | M3
 Blemishine | E1 80 | 7 | 7 | - | Ceobe | E1 | 7 | 7 | -
-Ch'en | E2 20 | 7 | M2 | 7 | Exusiai | E2 60 | 7 | 7 | M3
+Ch'en | E2 20 | 7 | M3 | 7 | Exusiai | E2 60 | 7 | 7 | M3
 Eunectes | E1 80 | 7 | 7 | - | Eyjafjalla | E2 90 | 7 | M3 | M3
 Hellagur | E2 1 | 7 | 7 | 7 | Ifrit | E2 30 | 7 | M3 | 7
 Hoshiguma | E2 20 | 7 | 7 | 7 | Magallan | E1 80 | 7 | 7 | -
