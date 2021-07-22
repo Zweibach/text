@@ -57,12 +57,17 @@ body:
         label: Install and OS comments
         description: Optional comments about OS and installation method
 
-    - type: markdown
+    - type: textarea
+      id: bug_description
       attributes:
+        description: Describe your issue in as much detail as you can. When did it happen? How did it happen? Does it keep happening?
         value: | 
-          ## Describe your issue
-          Describe your issue in as much detail as you can.
-          When did it happen? How did it happen? Does it keep happening?
+        1. 
+        2. 
+        3. 
+        ...
+      validation:
+        required: true          
 
     - type: textarea
       id: logs
