@@ -11,9 +11,9 @@ body:
           Thanks for taking the time to file a bug report. Provide as much information as possible to help dev identify and solve the problem.
 
     - type: input
+      id: hydrus_version
       attributes:
         label: Hydrus version
-        id: hydrus_version
         description: Your version of Hydrus. Kindly update to the latest version before filing a report.
       validations:
         required: true
