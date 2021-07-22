@@ -7,7 +7,16 @@ body:
     - type: markdown
       attributes:
         value: |
+          # Bug report
           Thanks for taking the time to file a bug report. Provide as much information as possible to help dev identify and solve the problem.
+
+    - type: input
+      attributes:
+        label: Hydrus version
+        id: hydrus_version
+        description: Your version of Hydrus. Kindly update to the latest version before filing a report.
+      validations:
+        required: true
 
     - type: dropdown
       id: install_method
@@ -47,6 +56,12 @@ body:
         label: Install and OS comments
         description: Optional comments about OS and installation method
 
+    - type: markdown
+      attributes:
+        value: | 
+          ## Describe your issue
+          Describe your issue in as much detail as you can.
+          When did it happen? How did it happen? Does it keep happening?
 
     - type: textarea
       id: logs
