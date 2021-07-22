@@ -15,6 +15,7 @@ body:
       attributes:
         label: Hydrus version
         description: Your version of Hydrus. Kindly update to the latest version before filing a report.
+        placeholder: v447 or just 447 are both acceptable.
       validations:
         required: true
 
