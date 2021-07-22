@@ -46,3 +46,11 @@ body:
       attributes:
         label: Install and OS comments
         description: Optional comments about OS and installation method
+
+
+    - type: textarea
+      id: logs
+      attributes:
+        label: Log output
+        description: Either copypaste relevant log sections here or upload the file below.
+        render: shell
