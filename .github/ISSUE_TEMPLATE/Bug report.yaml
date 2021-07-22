@@ -23,6 +23,11 @@ body:
           - Third party (AUR, Docker, Chocolatey, etc. Specify in comments)
       validations:
         required: true
+    
+    - type: textarea
+      id: install_info
+      attributes:
+        description: Optional installation method information
 
     - type: dropdown
       id: os
