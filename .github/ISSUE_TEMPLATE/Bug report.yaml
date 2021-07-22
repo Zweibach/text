@@ -23,12 +23,6 @@ body:
           - Third party (AUR, Docker, Chocolatey, etc. Specify in comments)
       validations:
         required: true
-    
-    - type: textarea
-      id: install_info
-      attributes:
-        label: Install method
-        description: Optional installation method information
 
     - type: dropdown
       id: os
@@ -46,3 +40,9 @@ body:
           - Linux (Specify distro and version in comments)
       validations:
         required: true
+
+    - type: textarea
+      id: os_install
+      attributes:
+        label: Install and OS comments
+        description: Optional comments about OS and installation method
