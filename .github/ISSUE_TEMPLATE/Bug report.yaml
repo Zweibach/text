@@ -61,7 +61,7 @@ body:
       id: bug_description
       attributes:
         label: Bug description and reproduction
-        description: Describe your issue in as much detail as you can. When did it happen? How did it happen? Does it keep happening?
+        description: Describe your issue in as much detail as you can. When did it happen? How did it happen? Does it keep happening? You can also post relevant text files or images here.
         value: | 
           1. 
           2. 
@@ -74,5 +74,5 @@ body:
       id: logs
       attributes:
         label: Log output
-        description: Either copypaste relevant log sections here or upload the file below.
+        description: Either copypaste relevant log sections here or upload the file in the bug description above.
         render: shell
