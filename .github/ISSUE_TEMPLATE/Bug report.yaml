@@ -5,6 +5,9 @@ labels: [bug]
 
 body:
     - type: markdown
+      attributes:
+        value: |
+          Thanks for taking the time to file a bug report. Provide as much information as possible to help dev identify and solve the problem.
 
     - type: dropdown
       id: install_method
@@ -17,7 +20,7 @@ body:
           - Windows extract
           - Windows installer
           - Running from source
-          - Third party (AUR, Docker, Chocolatey, etc.)
+          - Third party (AUR, Docker, Chocolatey, etc. Specify in comments)
       validations:
         required: true
 
