@@ -35,5 +35,5 @@ body:
           - MacOS 10.15 "Catalina"
           - MacOS, older (Specify in comments)
           - Linux (Specify distro and version in comments)
-      validation:
+      validations:
         required: true
