@@ -60,13 +60,14 @@ body:
     - type: textarea
       id: bug_description
       attributes:
+        label: Bug description and reproduction
         description: Describe your issue in as much detail as you can. When did it happen? How did it happen? Does it keep happening?
         value: | 
           1. 
           2. 
           3. 
           ...
-      validation:
+      validations:
         required: true          
 
     - type: textarea
