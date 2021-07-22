@@ -33,7 +33,7 @@ body:
           - MacOS 10.15 "Catalina"
           - MacOS, older (Specify in comments)
           - Linux (Specify distro and version in comments)
-          - Other (aka none of the above)
+          - Other (aka none of the above, specify in the comments)
       validations:
         required: true
 
