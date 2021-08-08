@@ -25,17 +25,18 @@ Zweibach#0690
 Melee | Level | S1 | S2 | S3 | Ranged | Level | S1 | S2 | S3
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Blaze | E2 90 | 7 | M3 | 7 | Angelina | E2 50 | 7 | 7 | M3
-Blemishine | E2 1 | 7 | 7 | 7 | Ceobe | E2 40 | 7 | M1 | 7
-Ch'en | E2 20 | 7 | M3 | 7 | Exusiai | E2 60 | 7 | 7 | M3
-Eunectes | E2 1 | 7 | 7 | 7 | Eyjafjalla | E2 90 | 7 | M3 | M3
-Hellagur | E2 1 | 7 | 7 | 7 | Ifrit | E2 30 | 7 | M3 | 7
-Hoshiguma | E2 20 | 7 | 7 | 7 | Magallan | E2 1 | 7 | 7 | 7
-Mountain | E1 1 | 7 | 7 | -
-Mudrock | E2 40 | 7 | M3 | 7 | Nightingale | E2 20 | 7 | 7 | 7
-Saria | E2 60 | M3 | M3 | M3 | Schwarz | E1 50 | 7 | 7 | -
-Siege | E2 40 | 7 | M2 | 7 | Shining | E2 60 | 7 | 7 | 7
+Blemishine | E2 1 | 7 | 7 | 7 | Ceobe | E2 40 | 7 | M3 | 7
+Ch'en | E2 20 | 7 | M3 | 7 | Dusk | E1 1 | 7 | 7 | -
+Eunectes | E2 1 | 7 | 7 | 7 | Exusiai | E2 60 | 7 | 7 | M3
+Hellagur | E2 1 | 7 | 7 | 7 | Eyjafjalla | E2 90 | 7 | M3 | M3
+Hoshiguma | E2 20 | 7 | 7 | 7 | Ifrit | E2 30 | 7 | M3 | 7
+Mountain | E1 1 | 7 | 7 | - | Magallan | E2 1 | 7 | 7 | 7
+Mudrock | E2 40 | 7 | M3 | 7 | Nightingale | E2 20 | 7 | M3 | 7
+Saria | E2 60 | M3 | M3 | M3 | Schwarz | E1 80 | 7 | 7 | -
+Siege | E2 40 | 7 | M2 | 7  | Shining | E2 60 | 7 | M3 | 7
 SilverAsh | E2 90 | 7 | 7 | M3 | Suzuran | E2 20 | 7 | M1 | M3
-Surtr | E2 1 | 7 | M2 | 7 | W | E2 20 | 7 | 7 | M1
+Skadi | E1 | 7 | 7 | - | W | E2 20 | 7 | 7 | M1
+Surtr | E2 1 | 7 | M2 | 7 
 
 5\* Operator | Level | S1 | S2
 --- | --- | --- | ---
