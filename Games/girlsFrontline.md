@@ -1,8 +1,11 @@
 # Girls Frontline
 
 ### Uncensor recipe
+Uncensor | Recipe
+---- | ---
 Manpower:522 | Ammo:320  
 MRE: 404 | Parts:137
+
 ### GFAlarm  
 [Guide](https://gamepress.gg/girlsfrontline/how-use-gfalarm-girls-frontline-alarm)  
 [Source](https://gall.dcinside.com/mgallery/board/view?id=micateam&no=1439586)  
@@ -19,7 +22,7 @@ Agent
 Alchemist  
 
 ### A
-Turrent wall (Train 2-4)  
+Nemeum (Train 2-4)  
 Swap Ripper (Train 2)  
 Swap Aegis (Train 1-3)  
 Tarantula (Train 3-6)  
